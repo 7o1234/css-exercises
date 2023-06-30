@@ -1,0 +1,15 @@
+.odd{
+    background-color: rgb(238, 18, 73);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#what{
+    color: blue;
+    font-size: 36px;
+}
+.thi{
+    font-size: 24px;
+}
+.the{
+    background-color: lightgreen;
+    font-weight: bold;
+}
